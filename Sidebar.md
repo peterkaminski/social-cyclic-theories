@@ -3,8 +3,9 @@
 {< div class="navlinks" >}
 - [[README|Home]]
 - [Search](/search.html)  
-- [[Index of Models]]  
 - [[Glossary]]  
+- [[Index of Models]]  
+- [[Taxonomy Framework]]  
 - [All Pages](/all-pages.html)  
 - [Recent Changes](/recent-pages.html)
 {< /div >}
